@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "7FJYPLDJ5F.com.agroglobal.agrowalletapp"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "7FJYPLDJ5F.com.agroglobal.agrowalletapp"
+    ]
+  }
+}
